@@ -1,6 +1,6 @@
 # CPNT 260 Assignment 4: Hero Section with Call-to-Action
-Author: Akashdeep Samra
-Live site: (https://aksamra56.github.io/cpnt260-a4/) (https://github.com/aksamra56/cpnt260-a4.git)
+- Author: Akashdeep Samra
+- Live site: (https://aksamra56.github.io/cpnt260-a4/) (https://github.com/aksamra56/cpnt260-a4.git)
 
 
 ## Attributions

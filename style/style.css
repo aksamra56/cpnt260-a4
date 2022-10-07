@@ -1,0 +1,53 @@
+body {
+    margin: 0;
+    font-family: sans-serif;
+}
+
+.hero {
+    width: 100vw;
+    height: 100vh;
+} 
+
+.hero {
+    width: 100vw;
+    height: 100vh;
+    
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+    text-align: center; 
+
+    background-image: url("../images/banner2.png");
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat; 
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif 
+    
+} 
+
+h1{
+    font-size: 5em;
+    margin-bottom: 1em;
+    color: rgb(218, 167, 167); 
+    text-shadow: 2px 2px black;
+    
+}
+ h2 {
+    color: rgb(218, 167, 167);
+    text-shadow: 1px 1px black;
+    font-style:italic;
+ }
+.btn{
+    border: 3px solid white;
+    padding: 1em;
+    border-radius: 20px;
+    padding-left: 2em;
+    padding-right: 2em;
+    background-color: rgb(218, 167, 167);
+    font-weight: bold;
+    font-style:italic;
+}
+
+.btn:hover{
+    background-color: whitesmoke;
+}
